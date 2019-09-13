@@ -1,0 +1,3 @@
+[submodule "concurrent-map"]
+	path = concurrent-map
+	url = https://github.com/summychou/concurrent-map.git
